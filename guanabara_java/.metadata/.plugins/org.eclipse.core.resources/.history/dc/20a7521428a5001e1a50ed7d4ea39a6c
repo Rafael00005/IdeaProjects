@@ -1,0 +1,11 @@
+package Aula2;
+
+public class Rafaex2 {
+	public static void main(String[] args) {
+		Familia f = new Familia();
+
+		f.endereco="Rua;Silva Jardim numero;521 ap;05";
+	
+		f.transcreva();
+	}
+}

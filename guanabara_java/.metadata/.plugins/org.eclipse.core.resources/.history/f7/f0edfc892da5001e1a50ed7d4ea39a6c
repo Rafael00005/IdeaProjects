@@ -1,0 +1,30 @@
+package Aula2;
+
+public class Familia {
+	String[] nomes = {"Rafael","Eliene","Matheus"};
+int [] idade= {38,37,3};
+String[] sexo2={"M","f"};
+String endereco;
+String horaDedormir="";
+void transcreva() {
+	System.out.println("Pai-"+this.nomes[0]+"-Sexo-"+this.sexo2[0]+"-idade"+this.idade[0]+
+			"\nEsposa-"+this.nomes[1]+"-Sexo-"+this.sexo2[1]+"-idade"+this.idade[1]+
+			"\nFilho-"+this.nomes[2]+"-Sexo-"+this.sexo2[0]+"-idade"+this.idade[2]
+			);
+
+}
+void verificar () {
+	if (horaDedormir.equalsIgnoreCase("Rafael")) {
+		System.out.println("Rafael pode ficar acordado depois da 22 horas");
+	}if (horaDedormir.equalsIgnoreCase("Eliene")) {
+		System.out.println("Eliene pode ficar acordado depois da 22 horas");
+	} else {
+System.out.println("Matheus tem dormir antes das 22 horas");
+	}
+			
+		}
+		
+	}
+
+
+

@@ -1,0 +1,11 @@
+package Aula2;
+
+public class Rafaex2 {
+	public static void main(String[] args) {
+		Familia f = new Familia();
+		f.pai= "Rafael";
+		f.Esposa="Eliene";
+		f.filho="Matheus";
+		f.transcreva();
+	}
+}
