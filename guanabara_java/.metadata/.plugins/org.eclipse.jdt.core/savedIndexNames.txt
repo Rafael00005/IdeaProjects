@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\rafae\OneDrive\Área de Trabalho\documentos\Meus projetos\guanabara_java\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-3413270776.index
-1510628393.index
