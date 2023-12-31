@@ -1,0 +1,20 @@
+package Aula2;
+
+public class Familia {
+	String[] nomes = {"Rafael","Eliene","Matheus"};
+int idade;
+String sexo="F";
+String sexo2="M";
+String endereco;
+ String pai;
+ String filho;
+ String Esposa;
+void transcreva() {
+	System.out.println("Pai-"+this.nomes[0]+
+			"\nEsposa-"+this.nomes[1]+
+			"\nFilho-"+this.nomes[2]
+			);
+
+}
+
+}
